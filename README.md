@@ -17,3 +17,6 @@ For ISD1820
 Main features:
 
 ISD1820 easy to use 10 seconds of voice recording and playback and high-quality, natural voice reproduction. There are three functions, loop play, point and click play, single play function—record and playback voice control mode: essential control or microcontroller, control line IO.
+
+----
+video：https://www.youtube.com/watch?v=fxm2-VLT0ls

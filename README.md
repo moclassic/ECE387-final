@@ -1,6 +1,6 @@
 # ECE387-final
 
-For final project，my plan is Small tape recorder，which is the Arduino Uno to ISD 1820. ISD1820 Voice Recorder Module will record and play sound. On the other side, the LED is connected to the UNO through a resistor. Potentiometer will change LED light. Recording is controlled through the computer, and you are also able to record manually.I will write code on Arduino IDE.
+For final project，my plan is Small tape recorder，which is the Arduino Uno to ISD 1820. ISD1820 Voice Recorder Module will record and play sound. On the other side, the LED is connected to the UNO through a resistor. Potentiometer will change Green LED light. Red led show playing over. Recording and playing not only is controlled through the computer, but also people can do it.I will write code on Arduino IDE.
 ----
 For ISD1820
 
@@ -19,4 +19,5 @@ Main features:
 ISD1820 easy to use 10 seconds of voice recording and playback and high-quality, natural voice reproduction. There are three functions, loop play, point and click play, single play function—record and playback voice control mode: essential control or microcontroller, control line IO.
 
 ----
-video：https://www.youtube.com/watch?v=fxm2-VLT0ls
+video computer controlled：https://www.youtube.com/watch?v=fxm2-VLT0ls
+video person   controlled: https://www.youtube.com/watch?v=imICKYySTdc

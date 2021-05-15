@@ -22,3 +22,9 @@ ISD1820 easy to use 10 seconds of voice recording and playback and high-quality,
 video computer controlled：https://www.youtube.com/watch?v=fxm2-VLT0ls
 
 video person   controlled: https://www.youtube.com/watch?v=imICKYySTdc
+-----
+Reference:
+
+https://blog.csdn.net/weixin_41659040/article/details/101048523?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161703596916780274113826%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161703596916780274113826&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-101048523.first_rank_v2_pc_rank_v29&utm_term=ISD1820&spm=1018.2226.3001.4187
+
+https://www.instructables.com/HOW-TO-USE-ISD1820-VOICE-RECORDER-AND-PLAYER/

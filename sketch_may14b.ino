@@ -25,7 +25,7 @@ void setup() {
 
 void loop() {
   Serial.println("enter r to record sound and enter p to play sound");
-  while(!Serial) {
+  if(!Serial) {
     intp = (char)Serial.read();
     
     if(intp =='r'){
